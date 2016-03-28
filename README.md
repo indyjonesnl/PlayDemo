@@ -1,7 +1,7 @@
 # PlayDemo
 Demo functionality of Java Play Framework
 
-Versions:
+This code is relevant for the following versions:
 
 Play Framework: 2.5.0
 
@@ -10,6 +10,8 @@ Ebeans: 3.0.0
 Scala: 2.11.7
 
 SBT: 0.13.11
+
+(jQuery: 2.2.2)
 
 ===
 
