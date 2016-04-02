@@ -14,8 +14,8 @@ server.pid
 /dist/
 .cache
 *.class
-.sql
-.cache
+*.sql
+*.cache
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
